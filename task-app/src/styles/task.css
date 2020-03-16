@@ -1,0 +1,16 @@
+.steps{
+	border: 1px solid lightgray;
+	padding: 8px;
+	margin-bottom: 8px;
+	background-color: white;
+}
+
+.taskCard {
+	width: 25em;
+	border: 1px solid lightgray;
+	padding: 8px;
+}
+
+h2 {
+	margin-bottom: 8px;
+}
